@@ -3,7 +3,7 @@
 # CURD Laravel 8 /Vue App
     Post to curd Laravel 8 with Vue(https://www.positronx.io/create-laravel-vue-js-crud-single-page-application/)
 
-> Laravel 5.5 API that uses the API resources with a Vue.js frontend
+> Laravel 8 API that uses the API resources with a Vue.js frontend
 
 ## Quick Start
 
